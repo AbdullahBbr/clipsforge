@@ -1,6 +1,7 @@
 # ClipForge
 
 Long video in, vertical clips out — a simpler, own-code rebuild of the
+No API keys required
 *behaviour* of an OpusClip-style app. Single-user, local only. No
 accounts, no billing, no teams, and no OpusClip code, name, logo or assets.
 
